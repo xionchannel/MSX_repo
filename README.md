@@ -10,9 +10,11 @@ MSX Games created in 1989
   - 手牌は４枚、上がって５枚となります。
   - 役はもう、昔に作ったので忘れましたが
   - 「一三元」「対三元」「一四喜」「対四喜」「明槓子」「暗槓子」等等
-- Source: <a href="https://www.minagi.jp/apps/mbv/?basic_url=https://xionchannel.github.io/MSX_repo/JIHA/AUTOEXEC.BAS">View with MSX BASIC Viewer</a>
-- WebMSX: <a href="https://webmsx.org/?MACHINE=MSX2J&DISK=https://xionchannel.github.io/MSX_repo/JIHA/JIHAJAN2.DSK">Play with WebMSX (Japanese Version)</a>
-- WebMSX: <a href="https://webmsx.org/?MACHINE=MSX2J&DISK=https://xionchannel.github.io/MSX_repo/JIHA/JIHAJAN2E.DSK">Play with WebMSX (English Version)</a>
+- Source: <a href="https://www.minagi.jp/apps/mbv/?basic_url=https://xionchannel.github.io/MSX_repo/JIHA/AUTOEXEC.BAS">View with MSX BASIC Viewer (ver1.0(</a>
+- Source: ver2.0 /JIHA/AUTOEXEC_MSXPEN.BAS
+- Source: ver2.0(English) /JIHA/AUTOEXEC_E_MSXPEN.BAS
+- WebMSX: <a href="https://webmsx.org/?MACHINE=MSX2J&STATE_URL=https://xionchannel.github.io/MSX_repo/JIHA/JIHAJAN2.wst">Play with WebMSX (Japanese Version)</a>
+- WebMSX: <a href="https://webmsx.org/?MACHINE=MSX2J&STATE_URL=https://xionchannel.github.io/MSX_repo/JIHA/JIHAJAN2E.wst">Play with WebMSX (English Version)</a>
 
 ## RPG SUGO6 : RPG スゴ6
 ![1](img/sugo61.gif) ![2](img/sugo62.gif)
