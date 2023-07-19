@@ -11,7 +11,8 @@ MSX Games created in 1989
   - 役はもう、昔に作ったので忘れましたが
   - 「一三元」「対三元」「一四喜」「対四喜」「明槓子」「暗槓子」等等
 - Source: <a href="https://www.minagi.jp/apps/mbv/?basic_url=https://xionchannel.github.io/MSX_repo/JIHA/AUTOEXEC.BAS">View with MSX BASIC Viewer</a>
-- WebMSX: <a href="https://webmsx.org/?MACHINE=MSX2J&DISK=https://xionchannel.github.io/MSX_repo/JIHA/JIHAJAN.DSK">Play with WebMSX</a>
+- WebMSX: <a href="https://webmsx.org/?MACHINE=MSX2J&DISK=https://xionchannel.github.io/MSX_repo/JIHA/JIHAJAN2.DSK">Play with WebMSX (Japanese Version)</a>
+- WebMSX: <a href="https://webmsx.org/?MACHINE=MSX2J&DISK=https://xionchannel.github.io/MSX_repo/JIHA/JIHAJAN2E.DSK">Play with WebMSX (English Version)</a>
 
 ## RPG SUGO6 : RPG スゴ6
 ![1](img/sugo61.gif) ![2](img/sugo62.gif)
