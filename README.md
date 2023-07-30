@@ -22,7 +22,9 @@ MSX Games created in 1989
   - 二人で遊ぶゲームです(^^;
   - 双六のようにさいころを振って移動し、止まったところの指示にしたがい、最終的に左下隅にいるボスを倒すというゲームです。
 - Source: <a href="https://www.minagi.jp/apps/mbv/?basic_url=https://xionchannel.github.io/MSX_repo/SUGO6/AUTOEXEC.BAS">View with MSX BASIC Viewer</a>
-- WebMSX: <a href="https://webmsx.org/?MACHINE=MSX2J&DISK=https://xionchannel.github.io/MSX_repo/SUGO6/SUGO6.DSK">Play with WebMSX</a>
+- Source: ver2.0 <a href="https://github.com/xionchannel/MSX_repo/blob/master/SUGO6/AUTOEXEC_MSXPEN.BAS">View with MSX BASIC Viewer</a>
+- WebMSX: <a href="https://webmsx.org/?MACHINE=MSX2J&STATE_URL=https://xionchannel.github.io/MSX_repo/SUGO6/SUGO62.wst">Play with WebMSX(New Version)</a>
+- WebMSX: <a href="https://webmsx.org/?MACHINE=MSX2J&DISK=https://xionchannel.github.io/MSX_repo/SUGO6/SUGO6.DSK">Play with WebMSX(OLD Version)</a>
 
 ## WIZARD BUSTER I
 ![1](img/wiz11.gif) ![2](img/wiz12.gif)
